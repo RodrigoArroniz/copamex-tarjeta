@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sanchez Fernandez;Alejandro;;;
+FN:Alejandro Sanchez Fernandez
+ORG:COPAMEX
+TITLE:Ejecutivo de Ventas
+TEL;TYPE=WORK,VOICE:+525548805058
+EMAIL;TYPE=INTERNET,WORK:alejandro.sanchez@copamex.com
+END:VCARD
